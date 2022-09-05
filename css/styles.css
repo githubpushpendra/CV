@@ -1,0 +1,20 @@
+head {
+    
+}
+body {
+    background-color: rgb(205, 234, 243);
+    font-size: larger;
+}
+hr {
+    border-style: dotted none none none;
+    background-color: rgb(205, 234, 243);
+    width: 7%;
+    border-top-width: 7px;
+    border-top-color: rgb(98, 116, 214);
+}
+h1 {
+    color: rgb(99, 197, 69);  
+}
+h3 {
+    color: rgb(99, 197, 69);  
+}
